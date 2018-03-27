@@ -1,0 +1,11 @@
+Role, Username, Password
+Admin, e12345, xlmwmwelevhtewwasvh
+Casual Staff, e36625, vqmxtewwasvh
+Casual Staff, e35474, vqmxtewwasvh
+Casual Staff, e36011, vqmxtewwasvh
+Casual Staff, e36577, vqmxtewwasvh
+Admin, e54321, eaimvihtewwasvh
+Course Coordinator, e73648, tewwqiweygi
+Course Coordinator, e93851, csyrsxqi
+Approver, e34814, lmaohi
+Approver, e23345, ksshrmklx

@@ -1,0 +1,5 @@
+Course, Tutorial, Laboratory, Lectorial, Excursion
+COSC1118, 35, 0, 0, 0
+COSC2628, 37, 50, 0, 100
+COSC2143, 34, 46, 0, 0
+COSC1076, 38, 0, 28, 0

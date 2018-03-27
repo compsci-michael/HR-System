@@ -1,0 +1,7 @@
+Staff ID, First Name, Last Name, Address, Phone Number
+e12345, Robert, Knows, 123 People Street, +6187350263
+e54321, John, Truth, 123 Unbelievable Street, +6142359138
+e73648, Jeremy, Wood
+e93851, Jasmine, Stump
+e34814, Sarah, Branch
+e23345, Chantelle, Twig

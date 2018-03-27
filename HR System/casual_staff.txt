@@ -1,0 +1,5 @@
+Staff ID, Course|Activity, First Name, Last Name, Address, Phone Number
+e36625, COSC1118|Tutorial(11), Michael, Aygur, 123 RMIT Street, 0453585273
+e35474, COSC1118|Tutorial(12)&COSC2143|Laboratory(12), Andrew, Gatty, 123 RMIT Street, 0431235235
+e36011, COSC2628|Laboratory(12).Excursion(1), Simon, Lu, 123 RMIT Street, 0483451237
+e36577, COSC1076|Tutorial(11).Lectorial(12), Aedan, Pragnell, 123 RMIT Street, 0413856183

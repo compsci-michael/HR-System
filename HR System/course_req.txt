@@ -1,0 +1,5 @@
+Course, Course Title, Description, Available Slots, Tutorial, Laboratory, Lectorial, Excursion, Staff ID
+COSC1118, Software Engineering Fundementals, Need experienced Software Engineers, 3, 2, 0, 0, 0, e36625&e35474
+COSC2628, User-centred Design, Experienced people in designing for users, 3, 2, 2, 0, 1, e36011
+COSC2143, Web Programming, Help students build their own webisite!, 3, 3, 1, 0, 0, e5474
+COSC1076, Advanced Programming Techniques, Need experienced tutors who use C, 2, 3, 0, 1, 0, e36577
